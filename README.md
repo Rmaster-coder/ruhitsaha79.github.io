@@ -48,14 +48,3 @@ Use this option if you want to host it inside any normal repository.
 
    `https://ruhitsaha79.github.io/portfolio/`
 
-## Before publishing
-
-Replace the placeholder LinkedIn link in `index.html` with your real LinkedIn profile URL.
-
-Search for this line:
-
-```html
-<a class="btn secondary" href="https://www.linkedin.com/" target="_blank" rel="noreferrer">LinkedIn</a>
-```
-
-Then replace the URL with your actual LinkedIn profile.
